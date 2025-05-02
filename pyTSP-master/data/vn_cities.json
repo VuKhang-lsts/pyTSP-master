@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "name": "Ho Chi Minh City",
+    "latitude": 10.7756,
+    "longitude": 106.7019,
+    "population": 9389700
+  },
+  {
+    "id": 2,
+    "name": "Hanoi",
+    "latitude": 21.0,
+    "longitude": 105.85,
+    "population": 8435700
+  },
+  {
+    "id": 3,
+    "name": "Haiphong",
+    "latitude": 20.8651,
+    "longitude": 106.6838,
+    "population": 2088000
+  },
+  {
+    "id": 4,
+    "name": "Cần Thơ",
+    "latitude": 10.0333,
+    "longitude": 105.7833,
+    "population": 1252348
+  },
+  {
+    "id": 5,
+    "name": "Biên Hòa",
+    "latitude": 10.95,
+    "longitude": 106.8167,
+    "population": 1272235
+  },
+  {
+    "id": 6,
+    "name": "Thủ Đức",
+    "latitude": 10.8266,
+    "longitude": 106.7609,
+    "population": 1207795
+  },
+  {
+    "id": 7,
+    "name": "Huế",
+    "latitude": 16.4667,
+    "longitude": 107.5792,
+    "population": 652572
+  },
+  {
+    "id": 8,
+    "name": "Thuận An",
+    "latitude": 10.905,
+    "longitude": 106.6994,
+    "population": 618984
+  },
+  {
+    "id": 9,
+    "name": "Đà Nẵng",
+    "latitude": 16.0748,
+    "longitude": 108.224,
+    "population": 1233400
+  },
+  {
+    "id": 10,
+    "name": "Hải Dương",
+    "latitude": 20.9397,
+    "longitude": 106.3306,
+    "population": 1946800
+  },
+  {
+    "id": 11,
+    "name": "Vinh",
+    "latitude": 18.6667,
+    "longitude": 105.6667,
+    "population": 490000
+  },
+  {
+    "id": 12,
+    "name": "Thanh Hóa",
+    "latitude": 19.8075,
+    "longitude": 105.7764,
+    "population": 393294
+  },
+  {
+    "id": 13,
+    "name": "Nam Định",
+    "latitude": 20.42,
+    "longitude": 106.1683,
+    "population": 352108
+  },
+  {
+    "id": 14,
+    "name": "Thủ Dầu Một",
+    "latitude": 10.9667,
+    "longitude": 106.65,
+    "population": 321607
+  },
+  {
+    "id": 15,
+    "name": "Long Xuyên",
+    "latitude": 10.3736,
+    "longitude": 105.4458,
+    "population": 278658
+  },
+  {
+    "id": 16,
+    "name": "Việt Trì",
+    "latitude": 21.3,
+    "longitude": 105.4333,
+    "population": 277539
+  },
+  {
+    "id": 17,
+    "name": "Mỹ Tho",
+    "latitude": 10.35,
+    "longitude": 106.35,
+    "population": 270700
+  },
+  {
+    "id": 18,
+    "name": "Thái Bình",
+    "latitude": 20.4461,
+    "longitude": 106.3422,
+    "population": 268167
+  },
+  {
+    "id": 19,
+    "name": "Rạch Giá",
+    "latitude": 10.0167,
+    "longitude": 105.0833,
+    "population": 250660
+  },
+  {
+    "id": 20,
+    "name": "Sa Đéc",
+    "latitude": 10.3,
+    "longitude": 105.7667,
+    "population": 213610
+  },
+  {
+    "id": 21,
+    "name": "Ninh Bình",
+    "latitude": 20.2539,
+    "longitude": 105.975,
+    "population": 160166
+  },
+  {
+    "id": 22,
+    "name": "Vĩnh Yên",
+    "latitude": 21.31,
+    "longitude": 105.5967,
+    "population": 152801
+  },
+  {
+    "id": 23,
+    "name": "Quận Mười Một",
+    "latitude": 10.7638,
+    "longitude": 106.6436,
+    "population": 0
+  },
+  {
+    "id": 24,
+    "name": "Quận Năm",
+    "latitude": 10.7557,
+    "longitude": 106.6675,
+    "population": 0
+  },
+  {
+    "id": 25,
+    "name": "Quận Mười",
+    "latitude": 10.7682,
+    "longitude": 106.6663,
+    "population": 0
+  },
+  {
+    "id": 26,
+    "name": "Quận Phú Nhuận",
+    "latitude": 10.7948,
+    "longitude": 106.6763,
+    "population": 0
+  },
+  {
+    "id": 27,
+    "name": "Quận Sáu",
+    "latitude": 10.7468,
+    "longitude": 106.649,
+    "population": 0
+  },
+  {
+    "id": 28,
+    "name": "Đống Đa",
+    "latitude": 21.0201,
+    "longitude": 105.831,
+    "population": 0
+  },
+  {
+    "id": 29,
+    "name": "Hai BàTrưng",
+    "latitude": 21.0134,
+    "longitude": 105.8477,
+    "population": 0
+  },
+  {
+    "id": 30,
+    "name": "Quận Ba",
+    "latitude": 10.7749,
+    "longitude": 106.6863,
+    "population": 0
+  },
+  {
+    "id": 31,
+    "name": "Hoàn Kiếm",
+    "latitude": 21.0286,
+    "longitude": 105.8506,
+    "population": 0
+  },
+  {
+    "id": 32,
+    "name": "Quận Một",
+    "latitude": 10.7807,
+    "longitude": 106.6994,
+    "population": 0
+  },
+  {
+    "id": 33,
+    "name": "Quận Bốn",
+    "latitude": 10.7668,
+    "longitude": 106.7057,
+    "population": 0
+  },
+  {
+    "id": 34,
+    "name": "Cầu Giấy",
+    "latitude": 21.0323,
+    "longitude": 105.8007,
+    "population": 0
+  },
+  {
+    "id": 35,
+    "name": "Quận Tân Phú",
+    "latitude": 10.7838,
+    "longitude": 106.637,
+    "population": 0
+  },
+  {
+    "id": 36,
+    "name": "Quận Bình Thạnh",
+    "latitude": 10.8033,
+    "longitude": 106.6967,
+    "population": 0
+  },
+  {
+    "id": 37,
+    "name": "Ba Đình",
+    "latitude": 21.0341,
+    "longitude": 105.8145,
+    "population": 0
+  },
+  {
+    "id": 38,
+    "name": "Thanh Khê",
+    "latitude": 16.0706,
+    "longitude": 108.191,
+    "population": 0
+  },
+  {
+    "id": 39,
+    "name": "Thanh Xuân",
+    "latitude": 20.9947,
+    "longitude": 105.7998,
+    "population": 0
+  },
+  {
+    "id": 40,
+    "name": "Bắc Ninh",
+    "latitude": 21.1833,
+    "longitude": 106.05,
+    "population": 520000
+  },
+  {
+    "id": 41,
+    "name": "Quận Bảy",
+    "latitude": 10.7118,
+    "longitude": 106.7364,
+    "population": 0
+  },
+  {
+    "id": 42,
+    "name": "Tây Hồ",
+    "latitude": 21.0689,
+    "longitude": 105.8105,
+    "population": 0
+  },
+  {
+    "id": 43,
+    "name": "Lái Thiêu",
+    "latitude": 10.9051,
+    "longitude": 106.6995,
+    "population": 0
+  },
+  {
+    "id": 44,
+    "name": "Hà Đông",
+    "latitude": 20.9714,
+    "longitude": 105.7788,
+    "population": 0
+  },
+  {
+    "id": 45,
+    "name": "Cầu Diễn",
+    "latitude": 21.0393,
+    "longitude": 105.7666,
+    "population": 0
+  },
+  {
+    "id": 46,
+    "name": "Quận Hai",
+    "latitude": 10.7916,
+    "longitude": 106.7495,
+    "population": 0
+  },
+  {
+    "id": 47,
+    "name": "Hóc Môn",
+    "latitude": 10.8886,
+    "longitude": 106.5958,
+    "population": 0
+  },
+  {
+    "id": 48,
+    "name": "Cẩm Lệ",
+    "latitude": 16.0177,
+    "longitude": 108.2038,
+    "population": 0
+  },
+  {
+    "id": 49,
+    "name": "Quận Chín",
+    "latitude": 10.8397,
+    "longitude": 106.7709,
+    "population": 0
+  },
+  {
+    "id": 50,
+    "name": "Văn Điển",
+    "latitude": 20.9463,
+    "longitude": 105.845,
+    "population": 0
+  },
+  {
+    "id": 51,
+    "name": "Sơn Trà",
+    "latitude": 16.0607,
+    "longitude": 108.2326,
+    "population": 0
+  },
+  {
+    "id": 52,
+    "name": "Trâu Quỳ",
+    "latitude": 21.0195,
+    "longitude": 105.9369,
+    "population": 0
+  },
+  {
+    "id": 53,
+    "name": "Trôi",
+    "latitude": 21.0695,
+    "longitude": 105.7065,
+    "population": 0
+  },
+  {
+    "id": 54,
+    "name": "Phùng",
+    "latitude": 21.089,
+    "longitude": 105.659,
+    "population": 0
+  },
+  {
+    "id": 55,
+    "name": "Tân Túc",
+    "latitude": 10.6954,
+    "longitude": 106.5913,
+    "population": 0
+  },
+  {
+    "id": 56,
+    "name": "Đông Anh",
+    "latitude": 21.155,
+    "longitude": 105.8486,
+    "population": 0
+  }
+]
